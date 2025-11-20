@@ -1,0 +1,11 @@
+server:
+  port: 8088
+
+spring:
+  main:
+    banner-mode: off
+  ai:
+    mcp:
+      server:
+        name: my-weather-server
+        version: 0.0.1
